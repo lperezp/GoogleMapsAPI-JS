@@ -1,6 +1,8 @@
 {
   "name": "demoAPIJS",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "7b3afd39"
 }
